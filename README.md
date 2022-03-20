@@ -1,1 +1,2 @@
 SearchOfExcel
+这是一个简单地用C#写的excel搜索程序，bug较多
